@@ -80656,8 +80656,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":8945,
-         "source":"..\/..\/..\/text.tsx"
+         "image":"..\/..\/tilesets\/text.png",
+         "imageheight":416,
+         "imagewidth":384,
+         "margin":0,
+         "name":"text",
+         "spacing":0,
+         "tilecount":156,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
