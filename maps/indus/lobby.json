@@ -92,6 +92,42 @@
                  "width":108,
                  "x":569.450366422385,
                  "y":225.098934043971
+                }, 
+                {
+                 "height":34,
+                 "id":9,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Arial",
+                     "pixelsize":23,
+                     "text":"-> B09",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":108,
+                 "x":585,
+                 "y":421
+                }, 
+                {
+                 "height":31,
+                 "id":10,
+                 "name":"B09",
+                 "properties":[
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"B09"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":68,
+                 "x":604,
+                 "y":469
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -124,7 +160,7 @@
          "y":0
         }],
  "nextlayerid":17,
- "nextobjectid":9,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
