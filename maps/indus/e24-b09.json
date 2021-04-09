@@ -115,6 +115,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
+                 "value":"https:\/\/wbo.ophir.dev\/boards\/EjrdhBjRbZddn2z-8CX309HSeJSLgr6-aAFH-rTaXEA-"
+                }, 
+                {
+                 "name":"openWebsiteMICROSOFTDISABLED",
+                 "type":"string",
                  "value":"https:\/\/wbd.ms\/share\/v2\/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2IxZWQ4YTYzMDIwYzRmZmZhYjg3YmYwZGQzN2U4MDdmXzY1OGJhMTk3LTZjNzMtNGZlYS05MWJkLTFjN2Q4ZGU2YmYyYw=="
                 }, 
                 {
