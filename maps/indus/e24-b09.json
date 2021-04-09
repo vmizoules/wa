@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"jitsiRoomDISABLED",
                  "type":"string",
                  "value":"jitsiBibZone1"
                 }],
@@ -83,7 +83,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"jitsiRoomDISABLED",
                  "type":"string",
                  "value":"jitsiBibZone2"
                 }],
