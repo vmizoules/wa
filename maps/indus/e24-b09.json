@@ -103,7 +103,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_N2JjYjZjYWEtMTZiNy00YjU4LTgxOTctOGEwYTgxZDVkODU5%40thread.v2\/0?context=%7b%22Tid%22%3a%22658ba197-6c73-4fea-91bd-1c7d8de6bf2c%22%2c%22Oid%22%3a%22b2fb906d-6f2e-4b8c-bfe0-1941152d8dd0%22%7d"
+                 "value":"https:\/\/teams.microsoft.com\/_#\/l\/meetup-join\/19:meeting_N2JjYjZjYWEtMTZiNy00YjU4LTgxOTctOGEwYTgxZDVkODU5@thread.v2\/0?context=%7B%22Tid%22:%22658ba197-6c73-4fea-91bd-1c7d8de6bf2c%22,%22Oid%22:%22b2fb906d-6f2e-4b8c-bfe0-1941152d8dd0%22%7D&anon=true&deeplinkId=18c18ba2-3444-4b77-b5fb-ad061041568b"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"[SPACE] to open Teams meeting"
                 }],
          "type":"tilelayer",
          "visible":true,
